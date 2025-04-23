@@ -2,7 +2,7 @@
 lesson_title: 'Building Programs with Python'
 lesson_schedule_slug: python-novice-schedule
 title: "Survey"
-slug: python-novice-survey
+slug: lesson-survey
 layout: page
 ---
 
